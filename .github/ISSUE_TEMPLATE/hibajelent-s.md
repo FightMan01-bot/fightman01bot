@@ -2,7 +2,7 @@
 name: Hibajelentés
 about: Kérlek a hibákat itt jelentsd.
 title: ''
-labels: ''
+labels: Hiba
 assignees: ''
 
 ---
