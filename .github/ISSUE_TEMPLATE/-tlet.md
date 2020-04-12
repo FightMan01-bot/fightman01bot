@@ -2,7 +2,7 @@
 name: Ötlet
 about: Adj egy kis ötletet
 title: ''
-labels: ''
+labels: Ötlet
 assignees: ''
 
 ---
