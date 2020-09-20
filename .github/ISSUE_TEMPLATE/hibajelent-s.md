@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-***Ezek a pontok azért vannak, hogy a mi munkánkat is segítsek! NINCS OLYAN, HOGY VALKAMELYIK FELESLEGES!!!***
+***Ezek a pontok azért vannak, hogy a mi munkánkat is segítsek! NINCS OLYAN, HOGY VALAMELYIK FELESLEGES!!!***
 
 **Hiba leírása**
 Egy rövid, de jól megfogalmazott leírás a hibáról.
